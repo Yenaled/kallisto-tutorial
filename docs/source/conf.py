@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'kallisto | bustools'
+copyright = '2024, Delaney K. Sullivan'
+author = 'Delaney K. Sullivan'
 
 release = '0.1'
 version = '0.1.0'
@@ -17,7 +17,11 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'sphinx.ext.autosectionlabel',
 ]
+
+autosectionlabel_prefix_document = True
+autosectionlabel_maxdepth = 2
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),

@@ -1,17 +1,12 @@
-Welcome to Lumache's documentation!
-===================================
+kallisto | bustools
+===================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+The `kallisto <https://github.com/pachterlab/kallisto>`_, `bustools <https://github.com/BUStools/bustools>`_, and `kb-python <https://github.com/pachterlab/kb_python>`_ programs are free, open-source software tools that are used together to perform RNA-seq quantification.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   This is unofficial documentation that is under active development.
 
 Contents
 --------
@@ -20,3 +15,4 @@ Contents
 
    usage
    api
+
