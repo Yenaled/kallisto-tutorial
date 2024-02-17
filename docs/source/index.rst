@@ -23,6 +23,7 @@ A paper describing the protocols is available as follows:
    :maxdepth: 1
    :caption: Information:
 
+   advanced_installation
    FAQ
 
 
