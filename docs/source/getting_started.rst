@@ -30,7 +30,7 @@ If you need to install a specific version of kb-python, you can specify the vers
 
   pip install kb_python==0.28.2
 
-.. seealso:
+.. seealso::
 
   If you want to install kallisto and bustools from source, please visit the section :ref:`Advanced Installation`
 

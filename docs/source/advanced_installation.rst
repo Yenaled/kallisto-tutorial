@@ -9,7 +9,11 @@ Although the kallisto and bustools binaries already come packaged within kb-pyth
 Precompiled binaries
 ^^^^^^^^^^^^^^^^^^^^
 
-If you want to download the binaries separately, you can visit https://github.com/pachterlab/kallisto/releases to obtain the kallisto binaries and https://github.com/BUStools/bustools/releases to obtain the bustools binaries. 
+If you want to download the binaries separately, you can visit:
+
+* https://github.com/pachterlab/kallisto/releases to obtain the kallisto binaries
+* https://github.com/BUStools/bustools/releases to obtain the bustools binaries. 
+
 
 Compiling from source
 ^^^^^^^^^^^^^^^^^^^^^
